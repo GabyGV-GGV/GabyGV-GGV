@@ -4,8 +4,14 @@
 
 <div align="center">
 
+<!-- ============================================================
+     GitHub Profile README — Gabriela Garcia Villalobos
+     ============================================================ -->
+<div align="center">
 <!-- Animated header SVG -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C2BB0,E8196A,F0A500&height=180&section=header&text=Gabriela%20Garcia%20Villalobos&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cochabamba%2C%20Bolivia%20🇧🇴&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<!-- Personal logo -->
+<img src="https://i.ibb.co/JR83HFby/logo-Bpr-Zo-St.png" alt="Gabriela Garcia Villalobos Logo" width="100"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E8196A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+React+Native+%7C+TypeScript;Building+impactful+tech+in+Bolivia+%F0%9F%87%A7%F0%9F%87%B4;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
